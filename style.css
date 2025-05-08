@@ -1,3 +1,5 @@
-h1 {
-    justify-content: center;
+.container {
+    background-image: url(img/glorp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
